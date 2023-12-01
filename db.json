@@ -1,0 +1,15 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "hieu",
+      "image": " https://firebasestorage.googleapis.com/v0/b/projectmd2-d11df.appspot.com/o/iamges%2Fwwwww.jpg?alt=media&token=bc93ce08-ecb3-4798-88bb-29b7dbc52a6a"
+    },
+    {
+      "name": "asda",
+      "image": "https://firebasestorage.googleapis.com/v0/b/projectmd2-d11df.appspot.com/o/iamges%2Fronaldo.jpg?alt=media&token=df5400cd-6c13-479f-a82a-353fbea6273a",
+      "id": 2
+    }
+  ]
+  
+}
